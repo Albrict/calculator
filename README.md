@@ -1,5 +1,11 @@
 # calculator
-Simple calculator in C.
+My first simple calculator in C.
+# Installiton 
+```
+git clone https://github.com/Albrict/calculator
+cd calculator
+make install
+```
 
 # Usage
 
