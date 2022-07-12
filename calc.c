@@ -40,7 +40,7 @@ void delete_zero_and_def_id(struct num *first)
 			free(tmp);				
 			break;
 		case '=':
-			(*pcur)->num = equal;				/* adds 999 to identify char */
+			(*pcur)->num = equal;		
 			pcur = &(*pcur)->next;
 			break;
 		case '+':
