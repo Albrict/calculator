@@ -1,7 +1,7 @@
 # calculator
 Simple calculator in C.
 
-#Usage
+# Usage
 
 Just type some numbers like this:
 <br />
