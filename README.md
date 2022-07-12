@@ -3,11 +3,13 @@ My first simple calculator in C.
 
 # Usage
 Just type some numbers like that:
+
 1
 +
 1
 2
 Or you can add equals symbol at the end:
+
 1
 +
 1
@@ -15,6 +17,7 @@ Or you can add equals symbol at the end:
 2
 
 Also you can type more than one operator:
+
 1
 +
 1
