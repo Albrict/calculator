@@ -8,6 +8,7 @@ Just type some numbers like that:
 +
 1
 2
+
 Or you can add equals symbol at the end:
 
 1
